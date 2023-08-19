@@ -21,6 +21,10 @@ Create venv
 ```
      python3 -m venv venv
 ```
+Active venv
+```
+    source venv/bin/activate
+```
 Install libs
 ```
     pip install requirements.txt
